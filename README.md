@@ -2,5 +2,20 @@
 
 Agora
 =====
-
 Plataforma aberta de envio de ideias e participação cidadã.
+
+
+
+
+### Tecnologia
+
+- Ruby 2.2.0+
+- Rails 4.2+ (migração para 5.0)
+- Postgres 9.4+
+
+
+
+### Licença
+
+
+- Ainda em pauta.
