@@ -18,4 +18,4 @@ Plataforma aberta de envio de ideias e participação cidadã.
 ### Licença
 
 
-- Ainda em pauta.
+![cc-by-nc-sa](http://i.imgur.com/ske74If.png)
